@@ -5,4 +5,4 @@ All the posted solutions will be mine, I will try my best to provide optimal sol
 
 Uploads will be mainly in C#, but might combine sometimes Java or Python
 
-1. Zigzag Tree Traversal: [Problem](https://raw.githubusercontent.com/mikejim/data-structures-problems/main/ZigZag%20Traversal%20Solution.cs)
+1. Zigzag Tree Traversal: [Problem](https://github.com/mikejim/data-structures-problems/blob/main/Zigzag%20Tree%20Traversal.md)
