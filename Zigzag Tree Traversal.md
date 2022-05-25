@@ -8,6 +8,6 @@ Input: root = [3,9,20,null,null,15,7]
 
 Output: [[3],[20,9],[15,7]]
 
-![Solution](https://raw.githubusercontent.com/mikejim/data-structures-problems/main/ZigZag%20Traversal%20Solution.cs) 
+[Solution](https://raw.githubusercontent.com/mikejim/data-structures-problems/main/ZigZag%20Traversal%20Solution.cs) 
 
 Original URL: https://leetcode.com/explore/interview/card/microsoft/31/trees-and-graphs/197/ 
